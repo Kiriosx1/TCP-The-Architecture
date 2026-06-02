@@ -1,4 +1,4 @@
-#  TCP: The Architecture of Cyberspace
+#  TCP: The Architecture of Cyberspace 🌐
 
 Welcome to the ultimate conceptual and technical breakdown of the **Transmission Control Protocol (TCP)**. 
 
@@ -25,7 +25,7 @@ But to the human mind, cyberspace feels like a place. TCP is the protocol that m
 To understand how TCP shapes cyberspace, we have to look at its core mechanisms through both a technical lens and a spatial metaphor.
 
 ###  The Three-Way Handshake (Establishing Presence)
-Before two entities can inhabit the same virtual room, they must agree to acknowledge each other. Cyberspace requires mutual consent.
+Before two entities can inhabit the same virtual room, they must agree to acknowledge each other.
 1. **SYN (Synchronize):** *"I am here, and I want to speak to you from this specific starting point (Sequence Number X)."*
 2. **SYN-ACK (Synchronize-Acknowledge):** *"I see you, I acknowledge your starting point, and here is my starting point (Sequence Number Y)."*
 3. **ACK (Acknowledge):** *"Understood. We are now locked in the same reality."*
@@ -33,7 +33,7 @@ Before two entities can inhabit the same virtual room, they must agree to acknow
 ###  Sliding Windows & Flow Control (The Physics of Space)
 Cyberspace has speed limits dictated by physical hardware. If a server sends data faster than a device can process it, data falls into the void. 
 * **The Window Size** is how much data the receiver can handle before it needs a breather. 
-* If the receiver gets overwhelmed, it shrinks the window, telling the sender to slow down. This is the "gravity" of cyberspace—regulating traffic so the digital pipes don't burst.
+* If the receiver gets overwhelmed, it shrinks the window, telling the sender to slow down. This is the "gravity" of regulating traffic so the digital pipes don't burst.
 
 ###  Error Recovery (Defying Digital Amnesia)
 In the physical world, if a glass breaks, it’s broken. In cyberspace, if a packet breaks or disappears, TCP acts as a time machine. Through **Sequence Numbers** and **Acknowledgements (ACKs)**, any lost fragment of reality is simply re-requested and re-sent until the picture is whole.
