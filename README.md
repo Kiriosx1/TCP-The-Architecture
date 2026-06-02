@@ -76,5 +76,5 @@ What happens to a server in cyberspace if a malicious actor sends thousands of *
 
 ---
 
-##  How to Use This Repo
+##  How to Use This Repo 🚀
 Feel free to fork this repository, add your own network analysis tools (like Wireshark captures), or expand on the philosophy of the OSI model!
